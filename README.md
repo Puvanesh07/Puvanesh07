@@ -39,7 +39,7 @@
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobexd)&nbsp;
 ![Three.js](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js)&nbsp;
 ![WebXR](https://img.shields.io/badge/-WebXR-05122A?style=flat&logo=webxr)&nbsp;
-![Model_viewer](https://img.shields.io/badge/-Model-viewer-05122A?style=flat&logo=modelviewer)&nbsp;
+![ModelViewer](https://img.shields.io/badge/-ModelViewer-05122A?style=flat&logo=modelviewer)&nbsp;
 
 
 
