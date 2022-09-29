@@ -25,7 +25,6 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress&logoColor=5C3EE8)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
@@ -40,6 +39,7 @@
 ![Three.js](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js)&nbsp;
 ![WebXR](https://img.shields.io/badge/-WebXR-05122A?style=flat&logo=webxr)&nbsp;
 ![ModelViewer](https://img.shields.io/badge/-ModelViewer-05122A?style=flat&logo=modelviewer)&nbsp;
+![MindAR](https://img.shields.io/badge/-MindAR-05122A?style=flat&logo=mindAR)&nbsp;
 
 
 
