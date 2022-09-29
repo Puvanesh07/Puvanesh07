@@ -37,6 +37,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![AdobeXD](https://img.shields.io/badge/-AdobeXD-05122A?style=flat&logo=adobexd)&nbsp;
 ![Three.js](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js)&nbsp;
+![TensorFlow.js](https://img.shields.io/badge/-TensorFlow.js-05122A?style=flat&logo=tensorflow.js)&nbsp;
 ![WebXR](https://img.shields.io/badge/-WebXR-05122A?style=flat&logo=webxr)&nbsp;
 ![ModelViewer](https://img.shields.io/badge/-ModelViewer-05122A?style=flat&logo=modelviewer)&nbsp;
 ![MindAR](https://img.shields.io/badge/-MindAR-05122A?style=flat&logo=mindAR)&nbsp;
