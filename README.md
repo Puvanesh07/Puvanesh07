@@ -50,7 +50,7 @@
 <a href="https://www.linkedin.com/in/puvanesh-b-619845204/"><img src="https://img.shields.io/badge/-Puvanesh%20B-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:puvanesh1964@gmail.com"><img src="https://img.shields.io/badge/-puvanesh1964@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/bhuvi.___"><img src="https://img.shields.io/badge/-bhuvi.___-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/PuvaneshB1"><img src="https://img.shields.io/badge/-PuvaneshB1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/BuviJoker"><img src="https://img.shields.io/badge/-Buvi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
