@@ -14,6 +14,16 @@
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Puvanesh07&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Puvanesh07&theme=chartreuse-dark"></p>
 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Puvanesh07">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Puvanesh07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Puvanesh07&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
