@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
-<p align="center"><img src="https://assets4.lottiefiles.com/packages/lf20_ozAPrgylvN.json"></p>
-<iframe src="https://embed.lottiefiles.com/animation/133722"></iframe>
+<p align="center"><img src="https://lottiefiles.com/133722-web-developer"></p>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Puvanesh </h1>
 
