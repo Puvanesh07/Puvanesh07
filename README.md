@@ -1,5 +1,4 @@
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets4.lottiefiles.com/packages/lf20_ozAPrgylvN.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <p align="center"><img src="https://assets4.lottiefiles.com/packages/lf20_ozAPrgylvN.json"></p>
